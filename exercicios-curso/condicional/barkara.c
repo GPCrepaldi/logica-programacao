@@ -24,5 +24,5 @@ int main () {
     } else {
         printf("\n\nO resultado e:\nx1 = %.2lf\nx2 = %.2lf\n", x1, x2);
     }
-    return a;
+    return 0;
 }
