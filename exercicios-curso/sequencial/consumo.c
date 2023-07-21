@@ -13,7 +13,7 @@ int main () {
 
     consumo = distancia / gasto;
 
-    printf("\n\nConsumo medio de: %.3lfL/Km\n", consumo);
+    printf("\n\nConsumo medio de: %.3lf Km/L\n", consumo);
     
     return 0;
 }
