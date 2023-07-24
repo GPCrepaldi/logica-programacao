@@ -34,7 +34,7 @@ int main () {
     }
     else
     {
-        printf("Produto nao cadastrado");
+        printf("\n\nProduto nao cadastrado");
     }
 
     printf("\n\nValor a pagar: R$%.2lf\n", valor);
