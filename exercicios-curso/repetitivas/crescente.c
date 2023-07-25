@@ -15,7 +15,7 @@ int main () {
             printf("\nCRESCENTE!!!\n");
         }
 
-        printf("Digite outros dois numeros: ");
+        printf("Digite outros dois numeros:\n");
         scanf("%d %d", &x, &y);
 
     }
