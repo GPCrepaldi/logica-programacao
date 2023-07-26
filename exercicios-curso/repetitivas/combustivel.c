@@ -24,7 +24,7 @@ diesel = 0;
         scanf("%d", &num);
     }
 
-    printf("\nMuito Obrigado\n");
+    printf("\nMuito Obrigado\n\n");
     printf("Alcool: %d\n", alcool);
     printf("Gasolina: %d\n", gasolina);
     printf("Diesel: %d\n", diesel);
