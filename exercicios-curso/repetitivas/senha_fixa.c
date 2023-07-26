@@ -5,7 +5,7 @@ int main  () {
 
     int senha;
 
-    printf("Digite a senha: 2312\n");
+    printf("Digite a senha 2312: ");
     scanf("%d", &senha);
 
     while (senha != 2312) {
