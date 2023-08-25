@@ -12,5 +12,7 @@ scanf("%d", &n);
     for (int i = 0; i < n; i++) {
         printf("Digite os 3 numeros: \n");
         scanf("%lf %lf %lf", &a, &b, &c);
+        x = (a + b + c) / 3;
+        printf("MEDIA = %.1lf\n", x);
     }
 }
