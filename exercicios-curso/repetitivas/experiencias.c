@@ -9,9 +9,17 @@ int main () {
     printf("Quantos casos de teste serao digitados? ");
     scanf("&d", &testes);
 
-    for (i = 0; i < count; i++)
-    {
-        /* code */
+    for (i = 0; i <= testes; i++) {
+        printf("Quantidades de cobaia: ");
+        scanf("%d", &cobaia);
+
+        printf("Tipo de cobaia: ");
+        scanf("%c", &tipo);
+
+        if (tipo == 'c' || tipo == 'C') {
+            
+        }
+        
     }
     
 }
