@@ -9,7 +9,7 @@ int main () {
     cout << "Quantos numeros serao digitados: ";
     cin >> n;
 
-    for (int i = 0; i <= n; i++) {
+    for (int i = 1; i <= n; i++) {
         cout << "Digite um numero: ";
         cin >> x;
 
@@ -17,5 +17,4 @@ int main () {
     }
 
     cout << "A soma dos numeros e: " << soma;
-    
 }
