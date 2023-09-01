@@ -15,9 +15,11 @@ int main () {
             cout << "Digite um numero: ";
             cin >> vet [i];
         }
-
+    
     cout << endl << "Numeros digitados!" << endl;
+    
     cout << fixed << setprecision(1);
+
         for (int i = 0; i < n; i++) {
             cout << vet [i] << endl;
         }
