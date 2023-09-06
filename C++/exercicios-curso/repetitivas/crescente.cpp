@@ -11,12 +11,12 @@ int main () {
     cout << "Digite o segundo numero: ";
     cin >> y;
 
-    while (x != y) {
-        if (x < y) {
-            cout << "CRESCENTE" << endl;
-        } else if (x > y) {
-            cout << "DECRESCENTE" << endl;
-        }
+        while (x != y) {
+            if (x < y) {
+                cout << "CRESCENTE" << endl << endl;
+            } else if (x > y) {
+                cout << "DECRESCENTE" << endl << endl;
+            }
     
     cout << "Digite novamente dois numeros novamente: ";
     cin >> x;
