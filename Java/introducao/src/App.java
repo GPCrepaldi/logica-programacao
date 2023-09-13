@@ -1,6 +1,10 @@
+import java.util.Locale;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        
+
+        Locale.setDefault(Locale.US);
+
         int idade;
         double salario, altura;
         char genero;
@@ -13,8 +17,8 @@ public class App {
         nome = "Maria Silva";
 
         System.out.println("Idade = " + idade);
-        System.out.println("Salario = " + salario);
-        System.out.println("Altura = " + altura);
+        System.out.println("Salario = " + String.format("%.2f", salario));
+        System.out.println("Altura = " + String.format("%.2f", altura));
         System.out.println("Genero = " + genero);
         System.out.println("Nome = " + nome);
     }
