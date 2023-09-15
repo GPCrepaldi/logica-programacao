@@ -21,5 +21,6 @@ public class App {
         System.out.println("Altura = " + String.format("%.2f", altura));
         System.out.println("Genero = " + genero);
         System.out.println("Nome = " + nome);
+
     }
 }
