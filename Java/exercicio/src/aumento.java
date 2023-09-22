@@ -41,5 +41,6 @@ public class aumento {
             System.out.println("Aumento: R$" + String.format("%.2f", aumento));
             System.out.println("Porcentagem: 5%");
         }
+        sc.close();
     }
 }

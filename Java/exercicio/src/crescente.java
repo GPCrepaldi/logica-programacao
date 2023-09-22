@@ -13,17 +13,17 @@ public class crescente {
         n1 = sc.nextInt();
         n2 = sc.nextInt();
 
-        while (n1 != n2) {
-            if (n1 < n2) {
-                System.out.println("CRESCENTE!");
-            } else if (n1 > n2) {
-                System.out.println("DECRESCENTE!");
+            while (n1 != n2) {
+                if (n1 < n2) {
+                    System.out.println("CRESCENTE!");
+                } else if (n1 > n2) {
+                    System.out.println("DECRESCENTE!");
+                }
+
+                System.out.println("Digite outros dois numeros:" );
+                n1 = sc.nextInt();
+                n2 = sc.nextInt();
             }
-
-            System.out.println("Digite outros dois numeros:" );
-            n1 = sc.nextInt();
-            n2 = sc.nextInt();
-        }
-
+        sc.close();
     }
 }
