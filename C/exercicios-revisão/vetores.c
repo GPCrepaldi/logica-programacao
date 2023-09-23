@@ -9,16 +9,16 @@ int main () {
 
     double vet[N];
 
-    for ( i = 0; i < N; i++) {
-        printf("Digite um numero: ");
-        scanf("%lf", &vet[i]);
-    }
+        for ( i = 0; i < N; i++) {
+            printf("Digite um numero: ");
+            scanf("%lf", &vet[i]);
+        }
 
     printf("\nNumeros Digitados:\n");
 
-    for (i = 0; i < N; i++) {
-        printf("%.1lf\n", vet[i]);
-    }
+        for (i = 0; i < N; i++) {
+            printf("%.1lf\n", vet[i]);
+        }
 
     return 0;
 }

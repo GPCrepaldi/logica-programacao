@@ -11,21 +11,20 @@ int main () {
 
     int mat[M] [N];
 
-    for (i = 0; i < M; i++){
-        for (j = 0; j < N; j++) {
-            printf("Elemento [ %d , %d ]: ", i, j);
-            scanf("%d", &mat[i][j]);
+        for (i = 0; i < M; i++){
+            for (j = 0; j < N; j++) {
+                printf("Elemento [ %d , %d ]: ", i, j);
+                scanf("%d", &mat[i][j]);
+                }
             }
-        }
     
     printf("\nMATRIZ DIGITADA\n");
 
-    for (i = 0; i < M; i++) {
-        for (j = 0; j < N; j++) {
-            printf(" %d ", mat[i][j]);
+        for (i = 0; i < M; i++) {
+            for (j = 0; j < N; j++) {
+                printf(" %d ", mat[i][j]);
+            }
+            printf("\n");
         }
-        printf("\n");
-    }
-
     return 0;
 }
