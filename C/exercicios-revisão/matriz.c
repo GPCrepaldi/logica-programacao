@@ -14,7 +14,7 @@ int main () {
     for (i = 0; i < M; i++){
         for (j = 0; j < N; j++) {
             printf("Elemento [ %d , %d ]: ", i, j);
-            scanf(" %d ", &mat[i][j]);
+            scanf("%d", &mat[i][j]);
             }
         }
     
