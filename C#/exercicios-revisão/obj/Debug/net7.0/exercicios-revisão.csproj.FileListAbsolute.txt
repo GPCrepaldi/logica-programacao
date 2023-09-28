@@ -1,0 +1,14 @@
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\bin\Debug\net7.0\exercicios-revisão.exe
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\bin\Debug\net7.0\exercicios-revisão.deps.json
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\bin\Debug\net7.0\exercicios-revisão.runtimeconfig.json
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\bin\Debug\net7.0\exercicios-revisão.dll
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\bin\Debug\net7.0\exercicios-revisão.pdb
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\obj\Debug\net7.0\exercicios-revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\obj\Debug\net7.0\exercicios-revisão.AssemblyInfoInputs.cache
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\obj\Debug\net7.0\exercicios-revisão.AssemblyInfo.cs
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\obj\Debug\net7.0\exercicios-revisão.csproj.CoreCompileInputs.cache
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\obj\Debug\net7.0\exercicios-revisão.dll
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\obj\Debug\net7.0\refint\exercicios-revisão.dll
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\obj\Debug\net7.0\exercicios-revisão.pdb
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\obj\Debug\net7.0\exercicios-revisão.genruntimeconfig.cache
+C:\Users\gabic\OneDrive - Fatec Centro Paula Souza\Programação\Cursos\Ûdemy\logica-programacao\C#\exercicios-revisão\obj\Debug\net7.0\ref\exercicios-revisão.dll
