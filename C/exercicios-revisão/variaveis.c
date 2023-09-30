@@ -11,14 +11,6 @@ int main () {
     char genero;
     char nome [50];
 
-        /*podemos colocar o valor da variavel quando vc declara ela, ao inves de colocar logo apos
-        como por exemplo
-
-        int idade = 20;
-        double salario, altura = 58000.5;
-        char genero = 1.63;
-        char nome [50] = "Maria Silva";*/
-
     idade = 20;
     salario = 5800.5;
     altura = 1.63;
