@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\exercicios-revisão.csproj": {}
+    "C:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\exercicios-revisão.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\exercicios-revisão.csproj": {
+    "C:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\exercicios-revisão.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\exercicios-revisão.csproj",
+        "projectUniqueName": "C:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\exercicios-revisão.csproj",
         "projectName": "exercicios-revisão",
-        "projectPath": "c:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\exercicios-revisão.csproj",
+        "projectPath": "C:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\exercicios-revisão.csproj",
         "packagesPath": "C:\\Users\\gabic\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\obj\\",
+        "outputPath": "C:\\Users\\gabic\\OneDrive - Fatec Centro Paula Souza\\Programação\\Cursos\\Ûdemy\\logica-programacao\\C#\\exercicios-revisão\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabic\\AppData\\Roaming\\NuGet\\NuGet.Config"
